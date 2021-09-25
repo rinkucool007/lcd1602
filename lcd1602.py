@@ -1,4 +1,3 @@
-#  MBTechWorks.com 2016
 #  Control an LCD 1602 display from Raspberry Pi with Python programming
 
 #!/usr/bin/python
